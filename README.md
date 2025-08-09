@@ -1,1 +1,1 @@
-# PRESCRIPTO--Hotel_Managaemnt_System
+# PRESCRIPTO--Hoospital_Managaemnt_System
