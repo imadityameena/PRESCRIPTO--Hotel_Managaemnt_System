@@ -1,1 +1,1 @@
-# PRESCRIPTO--Hoospital_Managaemnt_System
+# PRESCRIPTO--Hospital_Managaemnt_System
